@@ -83,5 +83,3 @@ To run home service robot navigate to `ShellScripts` directory and run
 `./home_service.sh`
 
 After running you will see (int Rviz) robot picking up a virtual object from the pickup zone and dropping it off at the drop off zone.
-![Alt text](./images/navigating.png?raw=true "Title")
-![Alt text](./images/dropping_off.png?raw=true "Title")
